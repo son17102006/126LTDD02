@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LTDD_T5</string>
+    <string name="student_info">MSSV: %1$s • Lớp: %2$s</string>
+    <string name="gpa_error">Vui lòng nhập GPA hợp lệ (0.0 - 4.0)</string>
+    <string name="gpa_invalid_toast">Điểm GPA không hợp lệ!</string>
+    <string name="gpa_success_toast">Cập nhật điểm thành công!</string>
+    <string name="gpa_badge_format">%1$.1f GPA (%2$s)</string>
+</resources>
